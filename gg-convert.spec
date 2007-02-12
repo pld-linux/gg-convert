@@ -1,5 +1,5 @@
 Summary:	Simple program to convert Gadu-Gadu logs
-Summary(pl):	Program do konwersji archiwum gg z formatu windowsowego na format ekg
+Summary(pl.UTF-8):   Program do konwersji archiwum gg z formatu windowsowego na format ekg
 Name:		gg-convert
 Version:	1.1
 Release:	0.1
@@ -13,7 +13,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Simple program to convert Gadu-Gadu logs.
 
-%description -l pl
+%description -l pl.UTF-8
 Program do konwersji archiwum gg z formatu windowsowego na format ekg.
 
 %prep
